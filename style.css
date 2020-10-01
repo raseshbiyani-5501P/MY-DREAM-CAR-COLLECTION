@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: aqua
+}
+.img{
+    width: 600pzpx;
+    height: 400px;
+    margin: 10px;
+    border-style: solid;
+}
+p{
+    font-size: 20px;
+    text-decoration: none;
+    text-decoration-color: darkorchid;
+}
+#main{
+    border-style: groove;
+    border-color: darkslateblue;
+    border-width: 30px;
+}
